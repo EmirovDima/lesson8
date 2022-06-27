@@ -1,0 +1,48 @@
+.container {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+}
+.boom {
+    background-color: #E5EFFF;
+    display: block;
+    color: #377CF5;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border: 0px;
+}
+.boom:hover {
+    background-color: #367BF5;
+    color: white;
+}
+.card {
+    background-color: #FEE4E2;
+        display: block;
+        color: #EA3D2F;
+        width: 200px;
+        height: 50px;
+        text-align: center;
+        line-height: 50px;
+        border: 0px;
+    }
+
+.card:hover {
+    background-color: #EA3D2F;
+    color: white;
+}
+.aport {
+    background-color: #DCF7E3;
+    display: block;
+    color: #2FA84F;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border: 0px;
+}
+
+.aport:hover {
+    background-color: #2FA84F;
+    color: white;
+}
